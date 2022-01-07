@@ -1,0 +1,7 @@
+This is the document accompanying an unpublished paper.
+
+Training of SchNet is in ./training
+
+Fine-tuning with FCNN is in ./FCNN
+
+Comparing FCNN with other machine learning methods including SVR, MLP, KRR are in ./compare_fcnn_krr_svm
