@@ -5,3 +5,5 @@ Training of SchNet is in ./schnet
 Fine-tuning with FCNN is in ./FCNN
 
 Comparing FCNN with other machine learning methods including SVR, MLP, KRR are in ./compare_fcnn_krr_svm
+
+Comparing different sampling methods in ./sampling_methods
